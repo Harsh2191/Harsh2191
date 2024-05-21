@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harsh2191](https://github.com/Harsh2191)
 
-- 💬 Ask me anything reated to **Web Devlopment,Mern stack,DSA,DBMS,Oops,Operating System**
+- 💬 you can ask me things reated to **Web Devlopment,Mern stack, DSA, DBMS, Oops, Operating System**
 
 - 📫 How to reach me **kumharharsh1912@gmail.com**
 
