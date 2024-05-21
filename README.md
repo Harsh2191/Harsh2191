@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on mastering **Backend devlopment**
 
-- 🌱 I’m currently learning **Express Nodejs and Backend related technologies**
+- 🌱 I’m currently learning **Express, Nodejs,PHP and Backend related technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harsh2191](https://github.com/Harsh2191)
 
