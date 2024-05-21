@@ -11,7 +11,7 @@
 
 - 💬 you can ask me things reated to **Web Devlopment,Mern stack, DSA, DBMS, Oops, Operating System**
 
-- 📫 How to reach me **kumharharsh1912@gmail.com**
+- 📫 How to reach me **kumarharsh1912@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
