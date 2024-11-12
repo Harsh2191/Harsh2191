@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh KUMAR</h1>
-<h3 align="center">Information Science Student | Passionate About Software Development & Full Stack Development | Lifelong Learner of New Technologies</h3>
+<h3 align="center">Information Science Student | Passionate About Software Development & Full Stack Development & AI/ML | Lifelong Learner of New Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh2191&label=Profile%20views&color=0e75b6&style=flat" alt="harsh2191" /> </p>
 
