@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh2191&label=Profile%20views&color=0e75b6&style=flat" alt="harsh2191" /> </p>
 
-- 🔭 I’m currently working on mastering **Backend devlopment**
+- 🔭 I’m currently working on mastering **Backend devlopment , Machine Learning**
 
-- 🌱 I’m currently learning **Express, Nodejs, and Backend related technologies**
+- 🌱 I’m currently learning **Express, Nodejs, and Backend related technologies and Machine learning concepts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harsh2191](https://github.com/Harsh2191)
 
-- 💬 you can ask me things reated to **Web Devlopment,Mern stack, DSA, DBMS, Oops, Operating System**
+- 💬 you can ask me things reated to **Web Devlopment,Machine learning,Mern stack, DSA, DBMS, Oops, Operating System**
 
 - 📫 How to reach me **kumarharsh1912@gmail.com**
 
